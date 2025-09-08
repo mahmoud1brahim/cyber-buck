@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-bot
+/bot
 trading-bot
 
 # Test binary, built with `go test -c`
